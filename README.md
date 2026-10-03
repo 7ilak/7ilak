@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Tilak Patel 👋
 
-<!--
-**7ilak/7ilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩺 **Medical Student** | 🎬 **Video Editing Enthusiast** | 🐍 **Python Learner**
 
-Here are some ideas to get you started:
+I'm a medical student from **Gandhinagar, Gujarat**, exploring the intersection of **medicine, technology, and creativity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how things work — whether that's the human body, a piece of code, or a video coming together frame by frame.
+
+## 🧬 Currently
+
+- 🩺 Studying **Medical Science**
+- 💻 Learning and experimenting with **Python**
+- 🎬 Passionate about **Video Editing & Visual Storytelling**
+- 🔬 Exploring ways to combine **medicine with technology**
+- 🌍 **Next stop: London 🇬🇧**
+
+## 💡 What I'm Exploring
+
+```text
+Medical Science  ×  Technology  ×  Creativity
+       🩺              💻              🎬
